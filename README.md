@@ -3,27 +3,18 @@
 
 ## 🚀 À propos de moi
 
-Étudiant en MMI basé à Laval et sablé suer sarthe, France
+Étudiant en MMI basé à Laval et Sablé sur sarthe, France
 - 🔭 Actuellement en train de travailler sur un site web de ressources pour les BUT MMI
-- 🌱 J'apprends actuellement le dev web
+- 🌱 J'apprends actuellement la communication, le devweb.
 - 📫 Comment me contacter : sachaguitterphoto@gmail.com
-- ⚡ Fun fact : Je suis photographe animalier et portrait
+- ⚡ Fun fact : Je suis photographe animalier et portrait.
 
 ## 🛠️ Technologies & Outils
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 🏆 Projets phares
-### [To Do List](https://sacez53.github.io/To-Do-List/)
-Description brève du projet et des technologies utilisées
-- HTML
-- CSS
-- JavaScript
-- Json
 
 ## 📫 Me contacter
 
